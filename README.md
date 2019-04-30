@@ -6,7 +6,8 @@ Welcome to the info page for the Secret Milk Minecraft Server (the official Mine
 # Latest modlist update: 2019-04-30
 
 ### Launcher
-Our server modpack is based on Direwolf20 2.5.0 pack for Minecraft 1.12, and requires at least 4GB of RAM to run
+Our server modpack is based on Direwolf20 2.5.0 pack for Minecraft 1.12, and requires at least 4GB of RAM to run.
+
 To start playing you must download FTB launcher, either the [official](https://www.feed-the-beast.com/), or the [pirated](https://www.hackphoenix.com/feed-the-beast/) one (we are not responsible for anything if it downloads viruses to your pc, so be careful)
 
 ### Additional mods
@@ -33,6 +34,21 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
 * Woot 1.4.10
 
 You might also want to grab [OptiFine](http://optifine.net/), although it is not nescessary
+
+*Note: if you use OptiFine shaders edit the config files to disable custom skyboxes:*
+
+`config/advRocketry/advancedRocketry.cfg`
+```
+B:PlanetSkyOverride=false
+B:StationSkyOverride=false
+B:overworldSkyOverride=false
+```
+`config/astralsorcery.cfg`
+```
+S:weakSkyRenders <
+    0
+>
+```
 
 ## Contact info
 If you have any questions or need anything, contact Sateviss#3553 or Misero#8181 on the [Secret Milk Discord](https://discordapp.com/invite/puCATYH)

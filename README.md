@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Info about the Secret Milk Server
 
-You can use the [editor on GitHub](https://github.com/Sateviss/milk-server-info/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the info page for the Secret Milk Minecraft Server (the official Minecraft server of the [Secret Milk Discord Server](https://discordapp.com/invite/puCATYH), the official Discord server of [r/bread_irl](https://www.reddit.com/r/bread_irl))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# IP: 35.243.141.24
+# Latest modlist update: 2019-04-30
 
-### Markdown
+### Launcher
+Our server modpack is based on Direwolf20 2.5.0 pack for Minecraft 1.12, and requires at least 4GB of RAM to run
+To start playing you must download FTB launcher, either the [official](https://www.feed-the-beast.com/), or the [pirated](https://www.hackphoenix.com/feed-the-beast/) one (we are not responsible for anything if it downloads viruses to your pc, so be careful)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Additional mods
+After installing the laucher and the DW20 modpack, locate the `mods` directory (it could normally be found around `Edit Mod Pack`) and place the following mods there ([DOWNLOAD FROM GOOGLE DRIVE](https://drive.google.com/open?id=1eTtKGLkBOjgYWslohyQATaNKC1M7sYiV)):
 
-```markdown
-Syntax highlighted code block
+* Advanced Rocketry 1.5.0
+* AE2 Stuff 0.7.04
+* BiblioCraft 2.4.5
+* Furniture 6.2.0
+* Galacticraft 4.0.1.181:
+  - Core
+  - Planets
+* JustEnoughIDs 1.0.2-26
+* LibVulpes 0.4.0-56
+* MatterOverdrive 0.7.1.0
+* Mekanika 1.2.0:
+  - Mekanika
+  - Generators
+  - Tools
+* MicdoodleCore 4.0.1.181
+* NuclearCraft 2.16
+* RoguelikeDungeons 1.8.0
+* Waystones 4.0.67
+* Woot 1.4.10
 
-# Header 1
-## Header 2
-### Header 3
+You might also want to grab [OptiFine](http://optifine.net/), although it is not nescessary
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sateviss/milk-server-info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact info
+If you have any questions or need anything, contact Sateviss#3553 or Misero#8181 on the [Secret Milk Discord](https://discordapp.com/invite/puCATYH)

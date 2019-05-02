@@ -1,6 +1,6 @@
 ## Info about the Secret Milk Server
 
-Welcome to the info page for the Secret Milk Minecraft Server (the official Minecraft server of the [Secret Milk Discord Server](https://discordapp.com/invite/puCATYH), the official Discord server of [r/bread_irl](https://www.reddit.com/r/bread_irl))
+Welcome to the info page for the Secret Milk Minecraft Server (the official Minecraft server of the [Secret Milk Club](https://discordapp.com/invite/puCATYH), the official Discord server of [r/bread_irl](https://www.reddit.com/r/bread_irl))
 
 # IP: 35.243.141.24
 # Latest modlist update: 2019-04-30

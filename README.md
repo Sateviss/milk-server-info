@@ -11,7 +11,9 @@ Our server modpack is based on Direwolf20 2.5.0 pack for Minecraft 1.12, and req
 To start playing you must download FTB launcher, either the [official](https://www.feed-the-beast.com/), or the [pirated](https://www.hackphoenix.com/feed-the-beast/) one (we are not responsible for anything if it downloads viruses to your pc, so be careful)
 
 ### Additional mods
-After installing the laucher and the DW20 modpack, locate the `mods` directory (it could normally be found around `Edit Mod Pack`) and place the following mods there ([DOWNLOAD FROM GOOGLE DRIVE](https://drive.google.com/open?id=1eTtKGLkBOjgYWslohyQATaNKC1M7sYiV)):
+After installing the laucher and the DW20 modpack, locate the `mods` directory (it could normally be found around `Edit Mod Pack`) and place the following mods there
+
+## [Download From Google Drive](https://drive.google.com/open?id=1eTtKGLkBOjgYWslohyQATaNKC1M7sYiV):
 
 * Advanced Rocketry 1.5.0
 * AE2 Stuff 0.7.04

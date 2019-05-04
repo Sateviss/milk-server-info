@@ -19,9 +19,6 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
 * AE2 Stuff 0.7.04
 * BiblioCraft 2.4.5
 * Furniture 6.2.0
-* Galacticraft 4.0.1.181:
-  - Core
-  - Planets
 * JustEnoughIDs 1.0.2-26
 * LibVulpes 0.4.0-56
 * MatterOverdrive 0.7.1.0
@@ -37,8 +34,6 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
 
 *Added on 2019-05-04*
 * Immersive Railroading 1.6.1
-* Quark 1.5-149
-  - Quark Oddities
 * Modular Powersuits 1.0.40
 * Numina 1.0.37
 * Catwalks 4.0.44
@@ -49,6 +44,12 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
 * Unlimited Chisel Works 0.2.1
 * Track API 1.1
 
+*Removed on 2019-05-04*
+
+* Galacticraft 4.0.1.181:
+  - Core (`GalacticraftCore-1.12.2-4.0.1.181.jar`)
+  - Planets (`Galacticraft-Planets-1.12.2-4.0.1.181.jar`)
+  
 You might also want to grab [OptiFine](http://optifine.net/) and/or [CleanView](https://minecraft.curseforge.com/projects/cleanview/files?filter-game-version=1738749986%3a628), although it is not nescessary
 
 *Note: if you use OptiFine shaders edit the config files to disable custom skyboxes:*

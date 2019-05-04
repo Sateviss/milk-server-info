@@ -3,7 +3,7 @@
 Welcome to the info page for the Secret Milk Minecraft Server (the official Minecraft server of the [Secret Milk Club](https://discordapp.com/invite/puCATYH), the official Discord server of [r/bread_irl](https://www.reddit.com/r/bread_irl))
 
 # IP: 35.243.141.24
-# Latest modlist update: 2019-04-30
+# Latest modlist update: 2019-05-04
 
 ### Launcher
 Our server modpack is based on Direwolf20 2.5.0 pack for Minecraft 1.12, and requires at least 4GB of RAM to run.
@@ -33,7 +33,21 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
 * Waystones 4.0.67
 * Woot 1.4.10
 
-You might also want to grab [OptiFine](http://optifine.net/), although it is not nescessary
+*Added on 2019-05-04*
+* Immersive Railroading 1.6.1
+* Quark 1.5-149
+  - Quark Oddities
+* Modular Powersuits 1.0.40
+* Numina 1.0.37
+* Catwalks 4.0.44
+* Apotheosis 1.9.4
+* Computronics 1.6.6
+* Effortless Building 2.9
+* TIS 3D 1.5.1.37
+* Unlimited Chisel Works 0.2.1
+* Track API 1.1
+
+You might also want to grab [OptiFine](http://optifine.net/) and/or [CleanView](https://minecraft.curseforge.com/projects/cleanview/files?filter-game-version=1738749986%3a628), although it is not nescessary
 
 *Note: if you use OptiFine shaders edit the config files to disable custom skyboxes:*
 

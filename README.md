@@ -26,7 +26,6 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
   - Mekanika
   - Generators
   - Tools
-* MicdoodleCore 4.0.1.181
 * NuclearCraft 2.16
 * RoguelikeDungeons 1.8.0
 * Waystones 4.0.67
@@ -49,7 +48,8 @@ After installing the laucher and the DW20 modpack, locate the `mods` directory (
 * Galacticraft 4.0.1.181:
   - Core (`GalacticraftCore-1.12.2-4.0.1.181.jar`)
   - Planets (`Galacticraft-Planets-1.12.2-4.0.1.181.jar`)
-  
+  - MicdoodleCore (`MicdoodleCore-1.12.2-4.0.1.181.jar`)
+ 
 You might also want to grab [OptiFine](http://optifine.net/) and/or [CleanView](https://minecraft.curseforge.com/projects/cleanview/files?filter-game-version=1738749986%3a628), although it is not nescessary
 
 *Note: if you use OptiFine shaders edit the config files to disable custom skyboxes:*
